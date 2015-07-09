@@ -1,4 +1,4 @@
-#include "mex.h"XXX
+#include "mex.h"
 #define _USE_MATH_DEFINES // <-- enables to use M_PI in math.h
 #include <math.h>   // <-- ceil, floor, sqrt, fabs, M_PI, atan2 are defined here 
 #include <float.h>  // <-- DBL_EPSILON is defined here 
